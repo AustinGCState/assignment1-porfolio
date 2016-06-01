@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="Content\app.css" />
     <Content Include="Home.aspx" />
+    <Content Include="Images\CoverPhoto.jpg" />
     <Content Include="Info.aspx" />
     <Content Include="User Controls\Navbar.ascx" />
     <Content Include="packages.config" />
@@ -140,6 +141,7 @@
       <DependentUpon>Site Master.Master</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

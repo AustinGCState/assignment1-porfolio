@@ -11,7 +11,7 @@ namespace Assignment1_Portfolio
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            coverImage.ImageUrl= "~/images/CoverPhoto.jpg";
         }
     }
 }

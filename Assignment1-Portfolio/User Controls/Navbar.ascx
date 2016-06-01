@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="Default.aspx"><i class="fa fa-fort-awesome fa-lg" ></i> Austin Cameron</a>
+            <a class="navbar-brand" href="home.aspx"><i class="fa fa-bolt fa-lg" ></i> Austin Cameron</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

@@ -1,4 +1,8 @@
 ﻿body {
-    background-color: dimgrey;
+    background-color: lightskyblue;
 
+}
+.Jumbotron {
+    color: #29577f;
+    background-color: white;
 }
