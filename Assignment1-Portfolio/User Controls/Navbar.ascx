@@ -16,7 +16,8 @@
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a href="Home.aspx"><i class="fa fa-home fa-lg" ></i> Home</a></li>
                 <li id="info" runat="server"><a href="Info.aspx"><i class="fa fa-user fa-lg" ></i> Bio</a></li>
-                <li id="project" runat="server"><a href="project.aspx"><i class="fa fa-inbox fa-lg" ></i> Projects</a></li>
+                <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-check fa-lg" ></i> Services</a></li>
+                <li id="project" runat="server"><a href="Projects.aspx"><i class="fa fa-inbox fa-lg" ></i> Projects</a></li>
                 <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg" ></i> Contact</a></li>
             </ul>
         </div>

@@ -31,6 +31,15 @@ namespace Assignment1_Portfolio {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl info;
         
         /// <summary>
+        /// services control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
+        
+        /// <summary>
         /// project control.
         /// </summary>
         /// <remarks>

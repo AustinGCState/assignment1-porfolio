@@ -10,33 +10,24 @@
 namespace Assignment1_Portfolio {
     
     
-    public partial class Info {
+    public partial class Projects {
         
         /// <summary>
-        /// slide1 control.
+        /// arduino control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image slide1;
+        protected global::System.Web.UI.WebControls.Image arduino;
         
         /// <summary>
-        /// slide2 control.
+        /// website control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image slide2;
-        
-        /// <summary>
-        /// slide3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Image slide3;
+        protected global::System.Web.UI.WebControls.Image website;
     }
 }
